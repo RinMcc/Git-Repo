@@ -1,0 +1,24 @@
+{
+  "name": "git-repo",
+  "version": "1.0.0",
+  "description": "Building my first website / web-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RinMcc/Git-Repo.git"
+  },
+  "keywords": [
+    "Webapp",
+    "website",
+    "first"
+  ],
+  "author": "Aaron McCarthy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RinMcc/Git-Repo/issues"
+  },
+  "homepage": "https://github.com/RinMcc/Git-Repo#readme"
+}
